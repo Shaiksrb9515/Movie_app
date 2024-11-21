@@ -49,7 +49,9 @@ movies_app/
 
 | Splash Screen              | Home Screen Placeholder        |
 |----------------------------|--------------------------------|
-| *(Add screenshot here)*    | *(Add screenshot here)*       |
+| ![movie_app](https://github.com/user-attachments/assets/c66a84a2-edcc-44c1-9926-80c025057c06)
+    | ![movie_app](https://github.com/user-attachments/assets/6b66c0b0-b293-44fb-a313-072e2d7845e7)
+       |
 
 ---
 
